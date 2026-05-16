@@ -1,0 +1,6 @@
+@MoteaManageAPI_HostAddress = http://localhost:5091
+
+GET {{MoteaManageAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
